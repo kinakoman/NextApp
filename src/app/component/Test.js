@@ -2,7 +2,7 @@
 import { useEffect } from "react"
 export default function Test() {
     return (
-        <div>tt</div>
+        <div>ttt</div>
     )
 }
 
